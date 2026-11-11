@@ -3,7 +3,7 @@ Just a place to save recipes seen online.
 
 Recipes we've found on Instagram and elsewhere, with the ingredients and steps pulled out and the original source, creator, and date kept with each one. Each recipe is its own markdown file in a category folder.
 
-**15 recipes** · [breads](./breads/) (4) · [mains](./mains/) (2) · [crockpot](./crockpot/) (9)
+**16 recipes** · [breads](./breads/) (4) · [mains](./mains/) (2) · [crockpot](./crockpot/) (9) · [desserts](./desserts/) (1)
 
 ## Breads
 
@@ -34,3 +34,9 @@ Recipes we've found on Instagram and elsewhere, with the ingredients and steps p
 | [Slow Cooker Loaded Baked Potato Soup](crockpot/slow-cooker-loaded-baked-potato-soup.md) | crockpot | @alyssa_therecipecritic (Instagram) | 2026-10-17 |
 | [Slow Cooker Mississippi Pork Roast](crockpot/slow-cooker-mississippi-pork-roast.md) | crockpot | @alyssa_therecipecritic (Instagram) | 2026-10-17 |
 | [Slow Cooker Pasta e Fagioli Soup](crockpot/slow-cooker-pasta-e-fagioli-soup.md) | crockpot | @alyssa_therecipecritic (Instagram) | 2026-10-17 |
+
+## Desserts
+
+| Recipe | Category | Creator / Source | Date added |
+|---|---|---|---|
+| [Chocolate Lava Cakes with Espresso and Sea Salt](desserts/chocolate-lava-cakes-with-espresso-and-sea-salt.md) | desserts | @craveflash (Instagram) | 2026-11-11 |
